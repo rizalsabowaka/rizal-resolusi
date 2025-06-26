@@ -14,3 +14,4 @@ Rencana Konten Rizal:
 - Belajar Android Studio
 - Belajar SEO Website
 - Belajar Java 6
+
