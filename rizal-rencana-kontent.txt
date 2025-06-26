@@ -13,3 +13,4 @@ Rencana Konten Rizal:
 - Python
 - Belajar SEO Website
 - Belajar Android Studio
+- Belajar Java
