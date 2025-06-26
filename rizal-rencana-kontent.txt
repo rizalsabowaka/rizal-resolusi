@@ -4,6 +4,7 @@ Rencana Konten Rizal:
  * Framework Javascript
     - Vue
     - React
+    - Angular
  
 - Fundamental Data Dasar
 - PHP Framework
