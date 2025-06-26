@@ -15,4 +15,5 @@ Rencana Konten Rizal:
 - Belajar SEO Website
 - Website
 - Android Studio
+- Flutter
 
