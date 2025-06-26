@@ -1,8 +1,12 @@
 Rencana Konten Rizal:
 - Javascript
  * ES6
- * Framework
+ * Framework Javascript
+    - Vue
+ 
 - Fundamental Data Dasar
 - PHP Framework
+    - Laravel
 - Interview
 - Vlogs
+- Python
